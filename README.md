@@ -64,8 +64,8 @@ hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP
 
 <h2>My GitHub History!</h2>
 <a href="https://github.com/lorenzofrancisco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lozo6&theme=monokai&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lozo6&theme=monokai&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzofrancisco&theme=monokai&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzofrancisco&theme=monokai&layout=compact"/>
 </a>
 
 <p align="center">
